@@ -1,2 +1,4 @@
-# miso4208_taller06_vtr
-Taller 6: Visual Regression Testing
+# Taller 6: Visual Regression Testing
+Aplicación para generación de Paleta de Colores Equidistantes.
+
+Será utilizada en el estudio de los efectos que tienen los cambios en interfaz.
